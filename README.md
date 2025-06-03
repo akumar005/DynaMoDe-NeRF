@@ -6,7 +6,7 @@ This repository contains the dataset used in paper DynaMoDe-NeRF (CVPR -2025)
 
 ### How to access the dataset
 
-1. Please read the dataset aggrement here: 
+1. Please read the dataset aggrement here: https://drive.google.com/file/d/1Id05O0TnubiJ_61NEYdQUqozqAZMD6CT/view?usp=drive_link
 
 
 
