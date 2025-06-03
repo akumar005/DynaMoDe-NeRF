@@ -10,6 +10,7 @@ This repository contains the dataset used in paper DynaMoDe-NeRF (CVPR -2025)
 2. Obtain a signed copy of the above agreement form.
 3. Enter your details in the request form here:
 4. Upload the agreement as part of the request form.
+
 After you submit the request form, you will receive an e-mail notification (within 5 working days) with the link to download the dataset.
 
 
