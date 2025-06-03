@@ -13,7 +13,8 @@ This repository contains the dataset used in paper DynaMoDe-NeRF (CVPR -2025)
 
 After you submit the request form, you will receive an e-mail notification (within 5 working days) with the link to download the dataset.
 
-
+## Acknowledgement
+Support from Institute of Eminence (IoE) project No. SB22231269EEETWO005001 for Research Centre in Computer Vision and IoE project No. SP22231231CPETWOSSAHOC for Center of Excellence in Sports Science and Analytics is gratefully acknowledged.
 
 
 
